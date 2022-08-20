@@ -1,0 +1,16 @@
+c:\users\piedtech\documents\visual studio 2013\Projects\2022UIfontawesome\2022UIfontawesome\bin\Debug\2022UIfontawesome.exe.config
+c:\users\piedtech\documents\visual studio 2013\Projects\2022UIfontawesome\2022UIfontawesome\bin\Debug\2022UIfontawesome.exe
+c:\users\piedtech\documents\visual studio 2013\Projects\2022UIfontawesome\2022UIfontawesome\bin\Debug\2022UIfontawesome.pdb
+c:\users\piedtech\documents\visual studio 2013\Projects\2022UIfontawesome\2022UIfontawesome\bin\Debug\FontAwesome.Sharp.dll
+c:\users\piedtech\documents\visual studio 2013\Projects\2022UIfontawesome\2022UIfontawesome\obj\Debug\2022UIfontawesome.csprojResolveAssemblyReference.cache
+c:\users\piedtech\documents\visual studio 2013\Projects\2022UIfontawesome\2022UIfontawesome\obj\Debug\_2022UIfontawesome.Form1.resources
+c:\users\piedtech\documents\visual studio 2013\Projects\2022UIfontawesome\2022UIfontawesome\obj\Debug\_2022UIfontawesome.Properties.Resources.resources
+c:\users\piedtech\documents\visual studio 2013\Projects\2022UIfontawesome\2022UIfontawesome\obj\Debug\2022UIfontawesome.csproj.GenerateResource.Cache
+c:\users\piedtech\documents\visual studio 2013\Projects\2022UIfontawesome\2022UIfontawesome\obj\Debug\2022UIfontawesome.exe
+c:\users\piedtech\documents\visual studio 2013\Projects\2022UIfontawesome\2022UIfontawesome\obj\Debug\2022UIfontawesome.pdb
+c:\users\piedtech\documents\visual studio 2013\Projects\2022UIfontawesome\2022UIfontawesome\obj\Debug\_2022UIfontawesome.Forms.FormDashboard.resources
+c:\users\piedtech\documents\visual studio 2013\Projects\2022UIfontawesome\2022UIfontawesome\obj\Debug\_2022UIfontawesome.Forms.FormCustomers.resources
+c:\users\piedtech\documents\visual studio 2013\Projects\2022UIfontawesome\2022UIfontawesome\obj\Debug\_2022UIfontawesome.Forms.FormMarketing.resources
+c:\users\piedtech\documents\visual studio 2013\Projects\2022UIfontawesome\2022UIfontawesome\obj\Debug\_2022UIfontawesome.Forms.FormOrders.resources
+c:\users\piedtech\documents\visual studio 2013\Projects\2022UIfontawesome\2022UIfontawesome\obj\Debug\_2022UIfontawesome.Forms.FormProducts.resources
+c:\users\piedtech\documents\visual studio 2013\Projects\2022UIfontawesome\2022UIfontawesome\obj\Debug\_2022UIfontawesome.Forms.FormSetting.resources
